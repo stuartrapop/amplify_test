@@ -1,3 +1,5 @@
+import React from 'react';
+
 import './App.css';
 import logo from './logo.svg';
 
@@ -6,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1> App V2 deploy</h1>
+        <h1> App V3  deploy</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
