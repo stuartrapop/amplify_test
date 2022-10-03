@@ -1,0 +1,12 @@
+{
+  "resourceName": "amplifyimages",
+  "policyUUID": "720fed61",
+  "bucketName": "amplifytest65a672aa8f2a46e8b49dfda0c880ad16",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
